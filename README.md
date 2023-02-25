@@ -1,1 +1,6 @@
-# password-gen-react
+# Run the code
+
+```
+npm install
+npm start
+```
